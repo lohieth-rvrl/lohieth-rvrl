@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**lohieth-rvrl/lohieth-rvrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm lohieth 👋
 
-Here are some ideas to get you started:
+I'm a web developer. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 👨‍💻 I'm passionate about Full stack development.
+- 🌱 I’m currently learning Javascript.
+- 📫 How to reach me: lohiethrvrl212@gmail.com.
+
+## My Work
+
+- 🌟 Some of my notable projects include:
+  - [Project 1](vinthub.netlify.app).
+
+## Skills
+
+- 💻 Programming Languages: [Python,C,C++,Java,Html,Css,Bootstrap]
+- 🛠️ Tools & Technologies: vscode.
+- 
+## Connect with Me
+
+- 📧 You can email me at lohiethrvrl212@gamil.com.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/lohieth-r/).
+
+## My GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+
